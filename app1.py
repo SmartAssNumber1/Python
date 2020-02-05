@@ -1,3 +1,4 @@
+#Ανοίξτε το κείμενο που ονομάζεται test 
 # get users input
 file = input("Enter file's name:")
 # open the file
