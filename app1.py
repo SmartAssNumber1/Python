@@ -1,4 +1,4 @@
-#Ανοίξτε το κείμενο που ονομάζεται test 
+#Ανοίξτε το κείμενο που ονομάζεται test χωρίς την κατάληξη
 # get users input
 file = input("Enter file's name:")
 # open the file
